@@ -1,0 +1,7 @@
+{
+  "version": "1.1.0",
+  "description": "1. 修复了深色主题按钮显示问题\n2. 优化了更新检查逻辑\n3. 增加了新功能",
+  "download_url": "https://your-server.com/updates/快捷管家_v1.1.0.zip",
+  "size": 5242880,
+  "checksum": "sha256:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+}
